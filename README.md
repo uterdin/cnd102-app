@@ -1,0 +1,2 @@
+# Description
+This project is a helper app for CND 102. It is intended for use in mobile & web. The purpose of the app is to help players more easily interact with their character sheets (Google Sheets mobile can be cumbersome and printed sheets are not practical when playing in darkness) as well as create a single platform for Players to easily find and Storytellers to easily distribute world materials, event announcements, and much more.
